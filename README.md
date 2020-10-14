@@ -1,4 +1,4 @@
-## Проект интернет-магазина по заказу пиццы - React Pizza
+## Проект интернет-магазина по заказу Apple Watch часов - Watch Store
 
 **Stack:**
 
@@ -7,13 +7,12 @@
 - Redux
 - Redux thunk
 - json-server
+- concurrently
 - Axios
 - classnames
 
 ## Запуск приложения
 ### `npm start`
 
-## Запуск сервера для подгрузки пицц
+## Запуск приложения и сервера для подгрузки пицц
 ### `npm run server`
-
-**Оценить работу приложения можно здесь:** https://react-pizza-layout.herokuapp.com
