@@ -1,0 +1,136 @@
+{
+  "watch": [
+    {
+      "id": 0,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/4/2/42-alu-silver-sport-white-nc-s3-gallery2_1.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/4/2/42-alu-silver-sport-white-nc-s3-gallery1_1.jpg",
+      "name": "Silver Aluminium",
+      "types": [0],
+      "sizes": [38, 42],
+      "price": 6999,
+      "category": 5,
+      "rating": 2
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_series_6_gps_40mm_red_aluminum_product_red_sport_band_pure_front_screen__usen_1.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_series_6_gps_40mm_red_aluminum_product_red_sport_band_34r_screen__usen_1.jpg",
+      "name": "PRODUCT(RED)",
+      "types": [1],
+      "sizes": [40, 44],
+      "price": 14699,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_nike_series_5_gps_space_gray_aluminum_anthracite_black_sport_band_40mm_pdp_wwru_2.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_nike_series_5_gps_space_gray_aluminum_anthracite_black_sport_band_40mm_pdp_wwru_1.jpg",
+      "name": "Black Nike",
+      "types": [1],
+      "sizes": [40, 44],
+      "price": 13999,
+      "category": 3,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_series_5_gps_gold_aluminum_pink_sand_sport_band_40mm_pdp_wwru_2_1.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_series_5_gps_gold_aluminum_pink_sand_sport_band_44mm_pdp_wwru_1_1.jpg",
+      "name": "Gold Aluminium",
+      "types": [0,1],
+      "sizes": [40, 44],
+      "price": 12999,
+      "category": 4,
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_series_6_gps_44mm_blue_aluminum_deep_navy_sport_band_pure_front_screen__usen_1.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_series_6_gps_44mm_blue_aluminum_deep_navy_sport_band_34r_screen__usen_1.jpg",
+      "name": "Deep Navy",
+      "types": [1],
+      "sizes": [44],
+      "price": 14699,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_nike_series_5_gps_silver_aluminum_pure_platinum_black_sport_band_40mm_pdp_wwru_2.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_watch_nike_series_5_gps_silver_aluminum_pure_platinum_black_sport_band_40mm_pdp_wwru_1.jpg",
+      "name": "Pure Platinum Nike",
+      "types": [1],
+      "sizes": [44],
+      "price": 13999,
+      "category": 3,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/m/x/mx8d2_vw_pf_watch-40-alum-silver-nc-nikese_vw_pf_wf_co_1.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/m/x/mx8d2_vw_34fr_watch-40-alum-silver-nc-nikese_vw_34fr_wf_co_1.jpg",
+      "name": "Aluminium Nike",
+      "types": [0, 1],
+      "sizes": [40, 44],
+      "price": 11399,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/m/x/mx8c2_vw_pf_watch-40-alum-spacegray-nc-nikese_vw_pf_wf_co.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/m/x/mx8c2_vw_34fr_watch-40-alum-spacegray-nc-nikese_vw_34fr_wf_co.jpg",
+      "name": "Space Gray Nike",
+      "types": [0, 1],
+      "sizes": [40],
+      "price": 10299,
+      "category": 1,
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/4/2/42-alu-space-sport-black-nc-gallery2_geo_ru_1_1.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/4/2/42-alu-space-sport-black-nc-gallery1_geo_ru_1_1.jpg",
+      "name": "Space Grey",
+      "types": [0, 1],
+      "sizes": [42],
+      "price": 7999,
+      "category": 5,
+      "rating": 2
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/4/2/42-alu-silver-sport-fog-gallery2_geo_us_1.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/4/2/42-alu-silver-sport-fog-gallery1_1.jpg",
+      "name": "Stainless Steel",
+      "types": [0],
+      "sizes": [38],
+      "price": 8999,
+      "category": 5,
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/s/a/sand_sport_loop_2.jpg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/s/a/sand_sport_loop_1.jpg",
+      "name": "Gold Sport",
+      "types": [0],
+      "sizes": [38,40],
+      "price": 9699,
+      "category": 4,
+      "rating": 3
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/5/2/526922-1.jpeg",
+      "imageUrlHover": "https://i.allo.ua/media/catalog/product/cache/1/image/212x184/9df78eab33525d08d6e5fb8d27136e95/5/2/526922.jpeg",
+      "name": "Edition Titanium",
+      "types": [0],
+      "sizes": [38, 40],
+      "price": 7699,
+      "category": 4,
+      "rating": 3
+    }
+  ]
+}
